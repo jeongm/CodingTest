@@ -1,5 +1,5 @@
 ## 1에서 n까지의 합구하기
-```
+```python
 def nsum(n):
     if n == 1:
         return 1
